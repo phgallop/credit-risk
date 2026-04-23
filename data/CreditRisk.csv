@@ -1,0 +1,14 @@
+historico-credito;endividamento;garantias;valor-solicitado;inadimplente
+Negativa;> 30 %;Nao;< 15000.00;Sim
+Desconhecida;? 30 %;Nao;> 15000 < 35000;Sim
+Desconhecida;< 30 %;Nao;> 15000 < 35000;Sim
+Desconhecida;< 30 %;Nao;> 35000.00;Sim
+Desconhecida;< 30 %;Nao;> 35000.00;Nao
+Negativa;> 30 %;Sim;> 15000 < 35000;Sim
+Desconhecida;? 30 %;Nao;< 15000.00;Sim
+Desconhecida;< 30 %;Nao;> 15000 < 35000;Sim
+Negativa;< 30 %;Sim;< 15000.00;Nao
+Desconhecida;? 30 %;Sim;> 15000 < 35000;Sim
+Desconhecida;? 30 %;Sim;< 15000.00;Nao
+Positiva;? 30 %;Sim;> 15000 < 35000;Sim
+Positiva;> 30 %;Sim;> 35000.00;Nao
