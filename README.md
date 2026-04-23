@@ -1,16 +1,25 @@
 # Credit Risk Classification
 
 ## Overview
-This project focuses on predicting credit-related outcomes using machine learning classification techniques.
+This project builds a simple credit risk classification model using basic machine learning techniques.
+The goal is to understand how different features can be used to predict whether a client is likely to default.
 
-## Focus
-- Data preprocessing
-- Exploratory analysis
-- Classification models
-- Performance evaluation
+## Objective
+Classify clients as default or non-default based on their profile.
 
-## Stack
-- Python
-- pandas
-- scikit-learn
-- Jupyter Notebook
+## Workflow
+- Load dataset
+- Basic data inspection
+- Convert categorical values into numeric values
+- Train a Naive Bayes model
+- Make a simple prediction
+- Check training accuracy
+
+## Conclusion
+- Accuracy: 0.76
+
+## Model Used
+- Naive Bayes
+
+## Notes
+- Dataset is small and categorical
